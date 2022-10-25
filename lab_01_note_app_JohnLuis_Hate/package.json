@@ -1,0 +1,12 @@
+{
+  "name": "lab_01_note_app_johnluis_hate",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "John Luis Hate",
+  "license": "ISC",
+  "description": ""
+}
